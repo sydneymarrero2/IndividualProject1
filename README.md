@@ -1,2 +1,2 @@
-# IndividualProject1
+# Introduction to Programming - Individual Assignment 1 
 
